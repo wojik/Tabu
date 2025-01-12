@@ -1,0 +1,20 @@
+java: programowanie, język, obiekt, java
+oaza: pustynia, woda, palma, oaza
+afryka: kontynent, sahara, czarny, afryka
+maska: twarz, impreza, teatr, maska
+lizak: patyk, lizanie, lizak
+gra: plansza, komputer, konsola, gra
+czekolada: mleko, kakao, gorzki, czekolada
+grobowiec: trumna, pogrzeb, grobowiec
+szaman: uzdrowiciel, magia, Indianie, szaman
+kartka: papier, zeszyt, arkusz, kartka
+rodzina: mama, tata, dom, dzieci, rodzina
+jezioro: woda, zbiornik, mazury, jezioro
+aluminium: folia, metal, puszka, aluminium
+licytacja: aukcja, internet, allegro, licytacja
+motyl: owad, efekt, kolor, motyl
+skalpel: operacja, chirurg, szpital, skalpel
+wiatr: powietrze, ruch, halny, wiatr
+moda: ubrania, wybieg, pokaz, moda
+boisko: mecz, bramka, siatka, kosz, boisko
+kwas: solny, zasada, chemia, kwas
