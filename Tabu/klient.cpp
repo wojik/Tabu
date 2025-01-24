@@ -8,7 +8,7 @@
 #include <algorithm>
 
 #define PORT 12345
-#define SERVER_IP "127.0.0.1"
+#define SERVER_IP "150.254.32.82"
 #define BUFFER_SIZE 1024
 
 bool running = true;
